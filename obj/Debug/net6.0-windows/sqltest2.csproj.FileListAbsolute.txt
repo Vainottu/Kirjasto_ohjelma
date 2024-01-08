@@ -1,0 +1,66 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.Form1.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.GenerateResource.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.CopyComplete
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\refint\sqltest2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\ref\sqltest2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.Kirjatlista.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.lainaushistoria.resources
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.exe
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.deps.json
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.runtimeconfig.json
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.dll
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\sqltest2.pdb
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.AssemblyReference.cache
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.Form1.resources
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.Kirjatlista.resources
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.lainaushistoria.resources
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.GenerateResource.cache
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.AssemblyInfoInputs.cache
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.AssemblyInfo.cs
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.CoreCompileInputs.cache
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.CopyComplete
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.dll
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\refint\sqltest2.dll
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.pdb
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\sqltest2.genruntimeconfig.cache
+C:\Users\jalop\OneDrive\koulujutut\Koulujutut\ohjelmointi 2\sqltest2\obj\Debug\net6.0-windows\ref\sqltest2.dll
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\sqltest2.exe
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\sqltest2.deps.json
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\sqltest2.runtimeconfig.json
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\sqltest2.dll
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\sqltest2.pdb
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+Z:\Projektit\Kirjasto\sqltest2\bin\Debug\net6.0-windows\MySql.Data.dll
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.AssemblyReference.cache
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.Form1.resources
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.Kirjatlista.resources
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.lainaushistoria.resources
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.GenerateResource.cache
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.AssemblyInfoInputs.cache
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.AssemblyInfo.cs
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.CoreCompileInputs.cache
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.csproj.CopyComplete
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.dll
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\refint\sqltest2.dll
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.pdb
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\sqltest2.genruntimeconfig.cache
+Z:\Projektit\Kirjasto\sqltest2\obj\Debug\net6.0-windows\ref\sqltest2.dll
